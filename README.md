@@ -22,65 +22,65 @@
 ## 基础教程
 
 - 安装 IDE 的方法
-  - [基于 Windows 系统安装 IntelliJ IDEA 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/install-intellij-idea-on-windows.md)
-  - [基于 Mac 系统安装 PyCharm 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/install-pycharm-on-mac.md)
+  - [基于 Windows 系统安装 IntelliJ IDEA 的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/install-intellij-idea-on-windows.md)
+  - [基于 Mac 系统安装 PyCharm 的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/install-pycharm-on-mac.md)
 - 初识 IDEA 的世界
-  - [首次运行 IntelliJ IDEA 示例](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/first-run-idea.md)
+  - [首次运行 IntelliJ IDEA 示例](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/first-run-idea.md)
 - 核心文件讲解
-  - [IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/core-file-talk.md)
+  - [IntelliJ IDEA 安装目录的核心文件讲解](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/core-file-talk.md)
 - 使用界面介绍
-  - [详述 IntelliJ IDEA 的使用界面](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/use-face.md)
+  - [详述 IntelliJ IDEA 的使用界面](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/use-face.md)
 - 第一个项目 HelloWorld
-  - [HelloWorld 项目创建及相关配置文件介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/hello-world.md)
+  - [HelloWorld 项目创建及相关配置文件介绍](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/hello-world.md)
 - 设置主题和字体
-  - [设置 IntelliJ IDEA 主题和字体的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/theme-and-font.md)
+  - [设置 IntelliJ IDEA 主题和字体的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/theme-and-font.md)
 - 模板注释
-  - [修改 IntelliJ IDEA 模板注释的内容](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/modify-user-template.md)
+  - [修改 IntelliJ IDEA 模板注释的内容](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/modify-user-template.md)
 - 常见图标介绍
-  - [常见文件类型的图标介绍](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/idea-icon.md)
+  - [常见文件类型的图标介绍](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/idea-icon.md)
 - 缓存及索引
   - [缓存和索引的介绍及清理方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/index-and-cache.md)
 - 编译方式
   - [编译方式介绍及编译器的设置和选择](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/compile-method.md)
 - 代码调试
-  - [详述 IntelliJ IDEA 之 Debug 篇](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/debug-skills.md)
+  - [详述 IntelliJ IDEA 之 Debug 篇](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/debug-skills.md)
 - 多模块项目
-  - [IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/project-module.md)
+  - [IntelliJ IDEA 中 Project 和 Module 的概念及区别](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/project-module.md)
 - 版本控制
-  - [详述 IntelliJ IDEA 中的版本控制机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/version-control.md)
+  - [详述 IntelliJ IDEA 中的版本控制机制](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/version-control.md)
 - 插件
-  - [详述 IntelliJ IDEA 插件的安装及使用方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/plugins.md)
+  - [详述 IntelliJ IDEA 插件的安装及使用方法]https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/plugins.md)
 - 创建 Maven 项目
-  - [详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/maven-project.md)
+  - [详述 IntelliJ IDEA 创建 Maven 项目及设置 java 源目录的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/maven-project.md)
 - 搭建 Spring MVC 框架
-  - [IntelliJ IDEA 中的 Maven 项目初体验及搭建 Spring MVC 框架](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/basic-course/run-maven-springmvc.md)
+  - [IntelliJ IDEA 中的 Maven 项目初体验及搭建 Spring MVC 框架](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/basic-course/run-maven-springmvc.md)
 
 
 ## 实用技巧
 
 
 - 快捷键
-  - [Mac](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/keymap-mac.md)
-  - [Windows](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/keymap-windows.md)
+  - [Mac](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/keymap-mac.md)
+  - [Windows](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/keymap-windows.md)
 - 恢复代码
-  - [详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/recovery-code.md)
+  - [详述 IntelliJ IDEA 中恢复代码的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/recovery-code.md)
 - 中文乱码问题
-  - [IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/solve-garbled-questions.md)
+  - [IntelliJ IDEA 控制台输出中文乱码问题的解决方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/solve-garbled-questions.md)
 - 序列化
-  - [详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/serialVersionUID.md)
+  - [详述 IntelliJ IDEA 中自动生成 serialVersionUID 的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/serialVersionUID.md)
 - 代码审查
-  - [详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/code-analysis.md)
+  - [详述 IntelliJ IDEA 提交代码前的 Code Analysis 机制](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/code-analysis.md)
 - 版本管理
-  - [关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/schedule.md)
-  - [详述 IntelliJ IDEA 版本控制不显示颜色提示的解决方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/version-control-color-tips.md)
+  - [关于 IntelliJ IDEA 中 Schedule for Addition 的问题](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/schedule.md)
+  - [详述 IntelliJ IDEA 版本控制不显示颜色提示的解决方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articlespractical-skills/version-control-color-tips.md)
 - 彩色代码主题
-  - [手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/color-code.md)
+  - [手把手教你设置 IntelliJ IDEA 彩色代码主题](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/color-code.md)
 - 远程调试
-  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/remote.md)
+  - [详述 IntelliJ IDEA 远程调试 Tomcat 的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/remote.md)
 - 代码对比
-  - [利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/compare-code.md)
+  - [利用 IntelliJ IDEA 进行代码对比的方法](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/compare-code.md)
 - 依赖冲突
-  - [详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/articles/practical-skills/conflict-jar.md)
+  - [详述使用 IntelliJ IDEA 解决 jar 包冲突的问题](https://github.com/chenzebiaohub/IDER-Color/tree/master/articles/practical-skills/conflict-jar.md)
 
 
 
