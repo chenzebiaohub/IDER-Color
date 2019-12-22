@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d9a9710a-0cfc-4be6-84fc-e19200ebaa02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="201" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="366" />
+    <option name="y" value="235" />
     <option name="width" value="1510" />
     <option name="height" value="750" />
   </component>
@@ -74,15 +76,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577000134281</updated>
-      <workItem from="1577000135495" duration="809000" />
+      <workItem from="1577000135495" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="809000" />
+    <option name="totallyTimeSpent" value="1063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="161" y="0" width="1208" height="600" extended-state="0" />
+    <frame x="294" y="329" width="1208" height="600" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
