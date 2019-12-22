@@ -1,12 +1,338 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="975" />
-    <option name="y" value="425" />
+  <component name="ChangeListManager">
+    <list default="true" id="d9a9710a-0cfc-4be6-84fc-e19200ebaa02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/intellij-idea-tutorial-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/compile-method.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/core-file-talk.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/debug-skills.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/first-run-idea.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/hello-world.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/idea-icon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/index-and-cache.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/install-intellij-idea-on-windows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/install-jdk-win10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/install-pycharm-on-mac.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/maven-project.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/modify-user-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/plugins.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/project-module.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/run-maven-springmvc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/theme-and-font.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/use-face.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/basic-course/version-control.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/difficult-cases/install-jdk-win10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/idea-active-code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/code-analysis.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/color-code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/compare-code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/conflict-jar.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/keymap-mac.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/keymap-windows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/recovery-code.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/remote.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/schedule.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/serialVersionUID.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/solve-garbled-questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/practical-skills/version-control-color-tips.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/compile-method/build.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/compile-method/run-debug-configuration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/compile-method/settings-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/compile-method/settings-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/compile-method/settings-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/core-file-talk/idea-properties.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/core-file-talk/idea64-vmoptions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/core-file-talk/intellij-idea-bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/debug-skills/debug-common-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/debug-skills/double-click-right-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/debug-skills/evaluate-expression.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/debug-skills/show-breakpoints-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/complete-installation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/customize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/feature-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/intellij-idea-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/license-activation-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/license-activation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/license-agreement.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/privacy-policy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/ui-themes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/first-run-idea/ultimate-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/com-hit-demo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/compact-empty-middle-packge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/create-new-class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/create-project-from-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/hello-world-class.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/hello-world-go-go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/hello-world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/hide-empty-middle-package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/idea-iml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/new-package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/new-project-finish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/new-project-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/select-home-directory-for-jdk-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/select-home-directory-for-jdk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/hello-world/welcome-to-idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/common-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/common-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/common-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/data-sources-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/data-sources-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/data-sources-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/file-types-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/tiny-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/idea-icon/tiny-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/index-and-cache/file-caches-restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/index-and-cache/warning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/download-process.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/downloading-intellij-idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellig-idea-choose-location-d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellig-idea-choose-location-next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellig-idea-choose-location.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellig-idea-choose-menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellig-idea-install-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellij-idea-setup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-intellij-idea-on-windows/intellij-idea-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/accept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/cmd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/download-jdk-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/download-jdk-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/download-jdk-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/download-jdk-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/download-jdk-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/edit-path.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/environment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/hello-world-txt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/java-hello-world.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/new-environment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/oracle-jdk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/system-property.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/system.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/unaccept.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-jdk-win10/user-think-javac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/download-pycharm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/mac-pycharm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-activation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-configuration.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-installation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/install-pycharm-on-mac/pycharm-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/create-new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/gitcode-success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/gitcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/modules.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/new-project-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/new-project-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/new-project-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/maven-project/project-structure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/modify-user-template/bin-idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/modify-user-template/default-template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/modify-user-template/settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/modify-user-template/test-bin-idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/modify-user-template/test-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/plugins/alibaba-java-coding-guidelines.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/plugins/markdown-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/plugins/preferences-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/plugins/test-markdown-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/more-module-package.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/more-module.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/new-module.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/user-hessian-module.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/project-module/user-modules-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/configuration-tomcat-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/configuration-tomcat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/gitcode-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/http-status-500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/modules-dependencies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/run-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/run-maven-springmvc/tomcat-lib-ls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/console-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/console-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/default-theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/editor-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/editor-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/editor-font-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/editor-font-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/face-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/face-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/face-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/font-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/theme-and-font/font-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/idea-begin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/new-project-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/new-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/project-go-go.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/tool-show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/toolbar-toolbuttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/use-face/welcome-idea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/check-from-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/clone-repository.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/code-analysis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/commit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/common-buttons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/git-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/github-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/idea-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/ignored-files.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/import-into-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/mybatis-tutorial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/preferences.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/settings-version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/subversion-general.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/test-git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/test-github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basic-course/version-control/tips-checkout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/difficult-cases/unrecognize-maven-project/facets-config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/difficult-cases/unrecognize-maven-project/maven-importing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/difficult-cases/unrecognize-maven-project/maven-plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/difficult-cases/unrecognize-maven-project/run-maven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/difficult-cases/unrecognize-maven-project/spring-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/code-analysis/code-analysis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/code-analysis/subversion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/FadeComments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/GeditForElegantGnome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/Gvim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/Havenjark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/NicePython.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/Solarized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/VibrantUnknown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/assignment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/colors-fonts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/idea-theme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/import-settings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/color-code/preferences.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/compare-code/compare-with.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/compare-code/local-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/compare-code/show-diff.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/compare-code/show-history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/actual-size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/exclude-jar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/jar-picture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/maven-project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/show-dependencies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/conflict-jar/test-exclude-jar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/compare-history-current.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/equalsAndHD-system.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/equalsAndHD.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/local-show-history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/revert-result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/revert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/reverted-to-ago.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/recovery-code/subversion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/remote/catalina-edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/remote/edit-configurations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/remote/remote-debug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/remote/remote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/remote/test-remote-debug.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/schedule/commit-changes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/schedule/schedule-newfile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/schedule/schedule-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/browse-repositories.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/generate-uid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/inspections.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/plugins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/preferences.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/serialVersionUID/test-generate-uid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/solve-garbled-questions/configurations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/solve-garbled-questions/edit-idea-vmoptions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/solve-garbled-questions/idea-bin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/solve-garbled-questions/idea-vmoptions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/version-control-color-tips/new-node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/version-control-color-tips/preferences.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/version-control-color-tips/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/practical-skills/version-control-color-tips/version-control.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/AptanaByAlexmeia.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/BlocksDark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/BlueHippo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Brackets.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Cobalt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/DarkFlashBuilder.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Dreamweaver.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/EasyEyesYellow.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Emacs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Ergo.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/FadeComments.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/GeditForElegantGnome.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Gvim.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Havenjark.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Igor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Monokai_2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/NicePython.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Notepad++Like.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Pastel.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Solarized.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/SublimeMonoKai.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/SublimeMonokaiTrue.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/Sunburst.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/TauCeti.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/TextMateTwilight.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/VibrantUnknown(Darcula).jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/idea-theme/XcodeMidnight.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/plugins/MavenRunHelper.zip" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="201" />
     <option name="width" value="1510" />
     <option name="height" value="750" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="intellij-idea(字体主题)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intellij-idea(字体主题)" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="E:/AndroidSdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -14,6 +340,76 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9a9710a-0cfc-4be6-84fc-e19200ebaa02" name="Default Changelist" comment="" />
+      <created>1577000134281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577000134281</updated>
+      <workItem from="1577000135495" duration="562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="562000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
