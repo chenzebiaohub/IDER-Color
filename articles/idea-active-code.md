@@ -25,11 +25,11 @@
 
 - **支付宝扫码 - 赞助**：
 
-![Alipay](https://img-blog.csdn.net/20180531133330700)
+![Alipay](images/支付宝.png)
 
 - **微信扫码 - 赞助**：
 
-![WeChat](https://img-blog.csdn.net/20180531133433974)
+![WeChat](images/支付宝.png)
 
 
 ### First Activation Code
