@@ -93,7 +93,8 @@
 
 　　作为一个初学者，刚接触 IntelliJ IDEA 的时候，就有幸阅读了 [@Judas.n](https://github.com/judasn) 写的关于 IntelliJ IDEA 的教程，也获益良多。在此感谢 Judas.n 写的教程对我的启发，本教程也对 Judas.n 写的教程多有借鉴，下面附上其 GitHub 地址，欢迎感兴趣的童鞋移步到 Judas.n 的教程观摩学习。
   
-- IntelliJ-IDEA-Tutorial: https://github.com/judasn/IntelliJ-IDEA-Tutorial 
+- 小7+:https://github.com/chenzebiaohub/IDER-Color
+- 原创作者:IntelliJ-IDEA-Tutorial: https://github.com/judasn/IntelliJ-IDEA-Tutorial 
 
 
 ----------
