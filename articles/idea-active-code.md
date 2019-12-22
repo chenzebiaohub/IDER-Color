@@ -19,17 +19,9 @@
 
 具体的修改`hosts`文件的方法，可以参考「[详述 hosts 文件的作用及修改 hosts 文件的方法](http://blog.csdn.net/qq_35246620/article/details/66970211?locationNum=1&fps=1)」这篇文章。
 
-- **赞助**：欢迎大家扫码赞助 ~ ~ ~ ！！！
-
-![redpack](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
-
 - **支付宝扫码 - 赞助**：
 
 ![Alipay](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
-
-- **微信扫码 - 赞助**：
-
-![WeChat](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
 
 
 ### First Activation Code
