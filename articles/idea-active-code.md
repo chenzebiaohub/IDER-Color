@@ -21,15 +21,15 @@
 
 - **赞助**：欢迎大家扫码赞助 ~ ~ ~ ！！！
 
-![redpack](https://img-blog.csdn.net/20180711100240431)
+![redpack](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
 
 - **支付宝扫码 - 赞助**：
 
-![Alipay](images/支付宝.png)
+![Alipay](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
 
 - **微信扫码 - 赞助**：
 
-![WeChat](images/支付宝.png)
+![WeChat](https://github.com/chenzebiaohub/IDER-Color/blob/master/images/%E6%94%AF%E4%BB%98%E5%AE%9D.png)
 
 
 ### First Activation Code
